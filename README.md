@@ -109,4 +109,3 @@ The question paper has a few mistakes. The answers deal with them like this:
 - The code has **not been compiled here** (there was no Delphi on this computer). Run it in Delphi and test it with the sample data before you rely on it.
 - The research looked at **DBE (CAPS)** only, not IEB.
 - Grade 11 exams and PATs are set by provinces and schools, so your teacher's rules come first if they are different.
-# it-question-2
